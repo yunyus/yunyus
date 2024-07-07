@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm a junior student at Bilkent University, deeply
 - **Arıkan Lab:** Investigating information theory, cooperative driving models, and conducting traffic simulations using CARLA and Unreal Engine to address the effectiveness problem.
 
 ## Interests
-- **Current Projects:** Working on LLMs, Bioinformatics, and Reinforcement Learning
+- **Current Fields:** Working on LLMs, Bioinformatics, and Reinforcement Learning
+- **Current Projects:** [Bilkent Online](http://bilkent.online/)
 
 ## Contact Me
 - **Email:** [yusuffkesmen2@gmail.com](mailto:yusuffkesmen2@gmail.com)
