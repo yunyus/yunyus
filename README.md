@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @yunyus
-- 👀 I’m interested in economy, philosophy and politics.
-- 🌱 I’m currently getting my education as sophomore in Bilkent University's CS Department.
-- 📫 How to reach me : My E-Mail Account "yusuffkesmen@gmail.com" 
+# Hi there, I'm Yusuf Kesmen! 👋
 
-<!---
-yunyus/yunyus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a junior student at Bilkent University, deeply passionate about programming, philosophy, and economics. I am driven and ambitious, always eager to learn and grow in the field of computer science.
+
+## About Me
+- **Current Education:** Junior at [Bilkent University](https://www.bilkent.edu.tr/) studying Computer Science
+- **Vice President:** [Bilkent AI Society](https://bilkentai.com/)
+- **Former Intern:** 
+  - Machine Learning Intern at [Huawei](https://www.huawei.com/)
+  - Candidate Engineer at [ASELSAN](https://www.aselsan.com.tr/)
+  - R&D Intern at [Ondokuz Mayıs University](https://www.omu.edu.tr/)
+- **Current Position:** NLP Intern at [Dijital Dönüşüm Ofisi](https://cbddo.gov.tr/)
+
+## Undergraduate Research
+- **Çiçek Lab:** Focused on bioinformatics and computational biology, training LLM models (GPT-2 and T5) to generate RNA sequences for given proteins, and enhancing Compound-Protein Interaction (CPI) predictions using VAEs and contrastive loss techniques.
+- **Arıkan Lab:** Investigating information theory, cooperative driving models, and conducting traffic simulations using CARLA and Unreal Engine to address the effectiveness problem.
+
+## Interests
+- **Current Projects:** Working on LLMs, Bioinformatics, and Reinforcement Learning
+
+## Contact Me
+- **Email:** [yusuffkesmen2@gmail.com](mailto:yusuffkesmen2@gmail.com)
+- **LinkedIn:** [Yusuf Kesmen](https://www.linkedin.com/in/yusuf-kesmen-0a5178224/)
+- **Twitter:** [@yusuffkesmen2](https://twitter.com/yusuffkesmen2)
