@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a junior student at Bilkent University, deeply
 - **Current Position:** NLP Intern at [Dijital Dönüşüm Ofisi](https://cbddo.gov.tr/)
 
 ## Undergraduate Research
-- **Çiçek Lab:** Focused on bioinformatics and computational biology, training LLM models (GPT-2 and T5) to generate RNA sequences for given proteins, and enhancing Compound-Protein Interaction (CPI) predictions using VAEs and contrastive loss techniques.
+- **Çiçek Lab:** Focused on bioinformatics and computational biology, training LLM models (GPT-2 and T5) to generate RNA sequences for proteins, and enhancing Compound-Protein Interaction (CPI) predictions.
 - **Arıkan Lab:** Investigating information theory, cooperative driving models, and conducting traffic simulations using CARLA and Unreal Engine to address the effectiveness problem.
 
 ## Interests
