@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a junior student at Bilkent University, deeply
   - Machine Learning Intern at [Huawei](https://www.huawei.com/)
   - Candidate Engineer at [ASELSAN](https://www.aselsan.com.tr/)
   - R&D Intern at [Ondokuz Mayıs University](https://www.omu.edu.tr/)
-- **Current Position:** NLP Intern at [Dijital Dönüşüm Ofisi](https://cbddo.gov.tr/)
+  - NLP Intern at [Dijital Dönüşüm Ofisi](https://cbddo.gov.tr/)
+- **Current Position:** AI Intern at [ROKETSAN](https://www.roketsan.com.tr/tr)
 
 ## Undergraduate Research
 - **Çiçek Lab:** Focused on bioinformatics and computational biology, training LLM models (GPT-2 and T5) to generate RNA sequences for proteins, and enhancing Compound-Protein Interaction (CPI) predictions.
