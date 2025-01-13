@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I'm a senior CS student at Bilkent University, dee
 
 ## Interests
 - **Current Fields:** Working on LLMs, Bioinformatics, and Reinforcement Learning
-- **Current Projects:** [Bilkent Online](http://bilkent.online/)
+- **Current Projects:** [Bilkent Online](http://bilkent.online/), [Rubber Duck AI](https://rubberduck.bilkent.online/), [Intelligene](https://variantsearch.com/)
+
 
 ## Contact Me
 - **Email:** [yusuffkesmen2@gmail.com](mailto:yusuffkesmen2@gmail.com)
