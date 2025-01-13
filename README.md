@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a senior CS student at Bilkent University, deeply passionate about programming, philosophy, and economics. I am driven and ambitious, always eager to learn and grow in the field of computer science.
 
 ## About Me
-- **Current Education:** Junior at [Bilkent University](https://www.bilkent.edu.tr/) studying Computer Science
+- **Current Education:** Senior at [Bilkent University](https://www.bilkent.edu.tr/) studying Computer Science
 - **Vice President:** [Bilkent AI Society](https://bilkentai.com/)
 - **Former Intern:** 
   - Machine Learning Intern at [Huawei](https://www.huawei.com/)
