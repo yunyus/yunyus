@@ -1,6 +1,6 @@
 # Hi there, I'm Yusuf Kesmen! 👋
 
-Welcome to my GitHub profile! I'm a junior student at Bilkent University, deeply passionate about programming, philosophy, and economics. I am driven and ambitious, always eager to learn and grow in the field of computer science.
+Welcome to my GitHub profile! I'm a senior CS student at Bilkent University, deeply passionate about programming, philosophy, and economics. I am driven and ambitious, always eager to learn and grow in the field of computer science.
 
 ## About Me
 - **Current Education:** Junior at [Bilkent University](https://www.bilkent.edu.tr/) studying Computer Science
