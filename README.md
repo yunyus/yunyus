@@ -1,27 +1,32 @@
 # Hi there, I'm Yusuf Kesmen! 👋
 
-Welcome to my GitHub profile! I'm a senior CS student at Bilkent University, deeply passionate about programming, philosophy, and economics. I am driven and ambitious, always eager to learn and grow in the field of computer science.
+Welcome to my GitHub profile! I am a PhD Student at EPFL, deeply passionate about the intersection of AI, philosophy, and economics. I am driven to develop robust AI systems that can reason through complex scientific and healthcare challenges.
 
-## About Me
-- **Current Education:** Senior at [Bilkent University](https://www.bilkent.edu.tr/) studying Computer Science
-- **Vice President:** [Bilkent AI Society](https://bilkentai.com/)
-- **Former Intern:** 
+## 🎓 About Me
+- **Current Education:** PhD Student in Computer and Communication Sciences (EDIC) at [EPFL](https://www.epfl.ch/en/)
+- **Undergraduate:** B.S. in Computer Science (Valedictorian) from [Bilkent University](https://www.bilkent.edu.tr/) '25
+- **Research Focus:** Foundational ML frameworks, Reinforcement Learning, and Agentic AI for healthcare.
+- **Former Roles:**
+  - Candidate AI Engineer at [ROKETSAN](https://www.roketsan.com.tr/tr)
   - Machine Learning Intern at [Huawei](https://www.huawei.com/)
   - Candidate Engineer at [ASELSAN](https://www.aselsan.com.tr/)
+  - Vice President at [Bilkent AI Society](https://bilkentai.com/)
   - R&D Intern at [Ondokuz Mayıs University](https://www.omu.edu.tr/)
   - NLP Intern at [Dijital Dönüşüm Ofisi](https://cbddo.gov.tr/)
-- **Current Position:** Candidate AI Engineer at [ROKETSAN](https://www.roketsan.com.tr/tr)
 
-## Undergraduate Research
-- **Çiçek Lab:** Focused on bioinformatics and computational biology, training LLM models (GPT-2 and T5) to generate RNA sequences for proteins, and enhancing Compound-Protein Interaction (CPI) predictions.
-- **Arıkan Lab:** Investigating information theory, cooperative driving models, and conducting traffic simulations using CARLA and Unreal Engine to address the effectiveness problem.
+## 🔬 Research & Projects
+- **LiGHT Lab (Current PhD Rotation):** Working with Prof. Mary-Anne Hartley on **LLM Reasoning for High-Stake Domains** and AI for healthcare.
+- **IMOS Lab (PhD Rotation):** Worked with Prof. Olga Fink on **Agentic AI for Root Cause Analysis** and Predictive Health Management (PHM).
+- **Undergraduate Research (Bilkent):**
+  - **Çiçek Lab:** Generative modeling (GPT-2, T5) for RNA sequences and Compound-Protein Interaction (CPI) predictions.
+  - **Arıkan Lab:** Investigated information theory, cooperative driving models, and traffic simulations using CARLA/Unreal Engine.
 
-## Interests
-- **Current Fields:** Working on LLMs, Bioinformatics, and Reinforcement Learning
-- **Current Projects:** [Bilkent Online](http://bilkent.online/), [Rubber Duck AI](https://rubberduck.bilkent.online/), [Intelligene](https://variantsearch.com/)
+## 🧠 Interests
+- **Large Language Models:** Focus on pre-training, complex reasoning, and robustness in scientific contexts.
+- **Reinforcement Learning:** Application of RL for LLM alignment, safety, and decision-making in healthcare.
+- **Agentic Systems:** Multi-agent architectures for scientific knowledge graphs.
 
-
-## Contact Me
+## 📮 Contact Me
 - **Email:** [yusuffkesmen2@gmail.com](mailto:yusuffkesmen2@gmail.com)
 - **LinkedIn:** [Yusuf Kesmen](https://www.linkedin.com/in/yusuf-kesmen-0a5178224/)
-- **Twitter:** [@yusuffkesmen2](https://twitter.com/yusuffkesmen2)
+- **X (Twitter):** [@yusuffkesmen2](https://twitter.com/yusuffkesmen2)
